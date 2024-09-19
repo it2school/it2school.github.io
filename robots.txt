@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Sitemap: https://it2school.od.ua/sitemap.xml

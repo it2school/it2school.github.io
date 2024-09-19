@@ -1,0 +1,200 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/fonts/kharkiv-tone-regular.ttf": {
+    "file": "assets/kharkiv-tone-regular.ttf",
+    "src": "resources/fonts/kharkiv-tone-regular.ttf"
+  },
+  "resources/images/gallery/1.png": {
+    "file": "assets/1.png",
+    "src": "resources/images/gallery/1.png"
+  },
+  "resources/images/gallery/2.png": {
+    "file": "assets/2.png",
+    "src": "resources/images/gallery/2.png"
+  },
+  "resources/images/gallery/3.png": {
+    "file": "assets/3.png",
+    "src": "resources/images/gallery/3.png"
+  },
+  "resources/images/how-to-start/sent-mail.svg": {
+    "file": "assets/sent-mail.svg",
+    "src": "resources/images/how-to-start/sent-mail.svg"
+  },
+  "resources/images/how-to-start/subscribe.svg": {
+    "file": "assets/subscribe.svg",
+    "src": "resources/images/how-to-start/subscribe.svg"
+  },
+  "resources/images/how-to-start/wait.svg": {
+    "file": "assets/wait.svg",
+    "src": "resources/images/how-to-start/wait.svg"
+  },
+  "resources/images/it2school-logo.svg": {
+    "file": "assets/it2school-logo.svg",
+    "src": "resources/images/it2school-logo.svg"
+  },
+  "resources/images/mentors/d_novikov.png": {
+    "file": "assets/d_novikov.png",
+    "src": "resources/images/mentors/d_novikov.png"
+  },
+  "resources/images/page-mentors/mentor-01.png": {
+    "file": "assets/mentor-01.png",
+    "src": "resources/images/page-mentors/mentor-01.png"
+  },
+  "resources/images/page-mentors/mentor-02.png": {
+    "file": "assets/mentor-02.png",
+    "src": "resources/images/page-mentors/mentor-02.png"
+  },
+  "resources/images/page-mentors/mentor-03.png": {
+    "file": "assets/mentor-03.png",
+    "src": "resources/images/page-mentors/mentor-03.png"
+  },
+  "resources/images/partners/partners-01.png": {
+    "file": "assets/partners-01.png",
+    "src": "resources/images/partners/partners-01.png"
+  },
+  "resources/images/partners/partners-02.png": {
+    "file": "assets/partners-02.png",
+    "src": "resources/images/partners/partners-02.png"
+  },
+  "resources/images/partners/partners-03.png": {
+    "file": "assets/partners-03.png",
+    "src": "resources/images/partners/partners-03.png"
+  },
+  "resources/images/partners/partners-04.png": {
+    "file": "assets/partners-04.png",
+    "src": "resources/images/partners/partners-04.png"
+  },
+  "resources/images/partners/partners-05.png": {
+    "file": "assets/partners-05.png",
+    "src": "resources/images/partners/partners-05.png"
+  },
+  "resources/images/partners/partners-06.png": {
+    "file": "assets/partners-06.png",
+    "src": "resources/images/partners/partners-06.png"
+  },
+  "resources/images/partners/partners-07.svg": {
+    "file": "assets/partners-07.svg",
+    "src": "resources/images/partners/partners-07.svg"
+  },
+  "resources/images/partners/partners-08.png": {
+    "file": "assets/partners-08.png",
+    "src": "resources/images/partners/partners-08.png"
+  },
+  "resources/images/partners/partners-09.svg": {
+    "file": "assets/partners-09.svg",
+    "src": "resources/images/partners/partners-09.svg"
+  },
+  "resources/images/partners/partners-10.svg": {
+    "file": "assets/partners-10.svg",
+    "src": "resources/images/partners/partners-10.svg"
+  },
+  "resources/images/partners/partners-11.png": {
+    "file": "assets/partners-11.png",
+    "src": "resources/images/partners/partners-11.png"
+  },
+  "resources/images/partners/partners-12.png": {
+    "file": "assets/partners-12.png",
+    "src": "resources/images/partners/partners-12.png"
+  },
+  "resources/images/partners/partners-13.png": {
+    "file": "assets/partners-13.png",
+    "src": "resources/images/partners/partners-13.png"
+  },
+  "resources/images/partners/partners-14.svg": {
+    "file": "assets/partners-14.svg",
+    "src": "resources/images/partners/partners-14.svg"
+  },
+  "resources/images/partners/partners-15.png": {
+    "file": "assets/partners-15.png",
+    "src": "resources/images/partners/partners-15.png"
+  },
+  "resources/images/partners/partners-16.png": {
+    "file": "assets/partners-16.png",
+    "src": "resources/images/partners/partners-16.png"
+  },
+  "resources/images/partners/partners-17.svg": {
+    "file": "assets/partners-17.svg",
+    "src": "resources/images/partners/partners-17.svg"
+  },
+  "resources/images/partners/partners-18.png": {
+    "file": "assets/partners-18.png",
+    "src": "resources/images/partners/partners-18.png"
+  },
+  "resources/images/patreon-logo.svg": {
+    "file": "assets/patreon-logo.svg",
+    "src": "resources/images/patreon-logo.svg"
+  },
+  "resources/images/programs/html.svg": {
+    "file": "assets/html.svg",
+    "src": "resources/images/programs/html.svg"
+  },
+  "resources/images/programs/machine-learning.svg": {
+    "file": "assets/machine-learning.svg",
+    "src": "resources/images/programs/machine-learning.svg"
+  },
+  "resources/images/programs/python.svg": {
+    "file": "assets/python.svg",
+    "src": "resources/images/programs/python.svg"
+  },
+  "resources/images/programs/scratch.svg": {
+    "file": "assets/scratch.svg",
+    "src": "resources/images/programs/scratch.svg"
+  },
+  "resources/images/programs/ux-design.svg": {
+    "file": "assets/ux-design.svg",
+    "src": "resources/images/programs/ux-design.svg"
+  },
+  "resources/images/slider-arrow-noborder.svg": {
+    "file": "assets/slider-arrow-noborder.svg",
+    "src": "resources/images/slider-arrow-noborder.svg"
+  },
+  "resources/images/slider-arrow.svg": {
+    "file": "assets/slider-arrow.svg",
+    "src": "resources/images/slider-arrow.svg"
+  },
+  "resources/images/socials/Facebook.svg": {
+    "file": "assets/Facebook.svg",
+    "src": "resources/images/socials/Facebook.svg"
+  },
+  "resources/images/socials/Instagram.svg": {
+    "file": "assets/Instagram.svg",
+    "src": "resources/images/socials/Instagram.svg"
+  },
+  "resources/images/socials/Linkedin.svg": {
+    "file": "assets/Linkedin.svg",
+    "src": "resources/images/socials/Linkedin.svg"
+  },
+  "resources/images/stories/story_01.png": {
+    "file": "assets/story_01.png",
+    "src": "resources/images/stories/story_01.png"
+  },
+  "resources/images/stories/story_02.png": {
+    "file": "assets/story_02.png",
+    "src": "resources/images/stories/story_02.png"
+  },
+  "resources/images/stories/story_03.png": {
+    "file": "assets/story_03.png",
+    "src": "resources/images/stories/story_03.png"
+  },
+  "resources/images/stories/story_04.png": {
+    "file": "assets/story_04.png",
+    "src": "resources/images/stories/story_04.png"
+  },
+  "resources/images/stories/story_05.png": {
+    "file": "assets/story_05.png",
+    "src": "resources/images/stories/story_05.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app2.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app2.css"
+    ]
+  }
+}
