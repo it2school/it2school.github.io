@@ -8,6 +8,10 @@
     "file": "assets/kharkiv-tone-regular.ttf",
     "src": "resources/fonts/kharkiv-tone-regular.ttf"
   },
+  "resources/images/background.svg": {
+    "file": "assets/background.svg",
+    "src": "resources/images/background.svg"
+  },
   "resources/images/gallery/1.png": {
     "file": "assets/1.png",
     "src": "resources/images/gallery/1.png"
@@ -35,6 +39,10 @@
   "resources/images/it2school-logo.svg": {
     "file": "assets/it2school-logo.svg",
     "src": "resources/images/it2school-logo.svg"
+  },
+  "resources/images/logo.png": {
+    "file": "assets/logo.png",
+    "src": "resources/images/logo.png"
   },
   "resources/images/mentors/d_novikov.png": {
     "file": "assets/d_novikov.png",
